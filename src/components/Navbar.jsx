@@ -9,7 +9,7 @@ const Navbar = () => {
                 <h1>Home</h1>
                 <h1>About</h1>
                 <h1>Projects</h1>
-                <div className='px-10 py-3 border border-black-1 rounded-full flex justify-between items-center gap-4 h-12 font-semibold'>
+                <div className='px-7 py-3 border border-black-1 rounded-full flex justify-between items-center gap-4 h-12 font-semibold'>
                     <button>Download CV</button>
                     <i className="ri-arrow-right-long-fill bg-orange-500 h-10 w-10 flex items-center justify-center rounded-full text-white font-semibold"></i>
                 </div>
