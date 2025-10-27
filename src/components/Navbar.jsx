@@ -8,8 +8,8 @@ const Navbar = () => {
     setIsRotating(true)
 
     const link = document.createElement('a')
-    link.href = '/Sih consent letter.pdf' // keep this file inside "public" folder
-    link.download = 'Sih consent letter.pdf'
+    link.href = '/public/DMDW MODULE 1.pdf' // keep this file inside "public" folder
+    link.download = 'DMDW MODULE 1.pdf'
     link.click()
 
     // stop animation smoothly
